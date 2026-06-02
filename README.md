@@ -1,6 +1,6 @@
 # AI Projects
 
-A collection of AI agent projects built using [CrewAI](https://www.crewai.com/), developed as part of the DeepLearning.AI course on multi-agent systems. Each project demonstrates a different use case for orchestrating autonomous AI agents that collaborate to complete complex tasks.
+A collection of AI agent projects and course work, built using [CrewAI](https://www.crewai.com/) as part of the DeepLearning.AI course on multi-agent systems. Each project demonstrates a different use case for orchestrating autonomous AI agents that collaborate to complete complex tasks.
 
 ## Projects
 
